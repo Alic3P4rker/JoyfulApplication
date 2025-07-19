@@ -54,7 +54,7 @@ function VerifyAccountPage()
                         />
                     </div>
 
-                    <button type="submit" onClick={handleVerifyAccount} className="btn site-color">Verify Account</button>
+                    <button type="submit" onClick={handleVerifyAccount} className="btn">Verify Account</button>
                 </div>
 
                 <a href='#'>Resend verification code?</a>

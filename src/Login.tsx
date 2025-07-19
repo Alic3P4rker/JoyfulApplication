@@ -73,7 +73,7 @@ function LoginPage()
                         />
                     </div>
 
-                    <button type="submit" className="btn site-color" onClick={handleLogin}>Continue</button>
+                    <button type="submit" className="btn" onClick={handleLogin}>Continue</button>
                 </div>
 
                 <div className='linkParent'>

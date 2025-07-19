@@ -83,7 +83,7 @@ function CreateAccountPage()
                         />
                     </div>
 
-                    <button type="submit" onClick={handleCreateAccount} className="btn site-color" >Create Account</button>
+                    <button type="submit" onClick={handleCreateAccount} className="btn" >Create Account</button>
                 </div>
 
                 <a href='#'>Are you an organiser?</a>
